@@ -26,13 +26,13 @@ defmodule IPO_SCHEDULE do
   end
 
   # Google Calendar Api v3
-  def :client do
+  def client do
   end
 
-  def :fetch_calendar(token) do
+  def fetch_calendar(token) do
   end
 
-  def :update_calendar(token, schedule) do
+  def update_calendar(token, schedule) do
   end
 
   def compare_schedule(scrape_schedule, calendar_schedule) do
